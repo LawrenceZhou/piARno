@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piARno2", "piARno2.csproj", "{AA8A2DD2-D1E4-01A6-E402-26E68071E1D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piARno2.Editor", "piARno2.Editor.csproj", "{7A0D3590-9D38-B3B5-D2FD-A2454706D3CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8A2DD2-D1E4-01A6-E402-26E68071E1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8A2DD2-D1E4-01A6-E402-26E68071E1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8A2DD2-D1E4-01A6-E402-26E68071E1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8A2DD2-D1E4-01A6-E402-26E68071E1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0D3590-9D38-B3B5-D2FD-A2454706D3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0D3590-9D38-B3B5-D2FD-A2454706D3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0D3590-9D38-B3B5-D2FD-A2454706D3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0D3590-9D38-B3B5-D2FD-A2454706D3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

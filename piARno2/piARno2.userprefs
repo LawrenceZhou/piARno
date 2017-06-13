@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="piARno2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\sheet_plane_script.cs">
+    <Files>
+      <File FileName="Assets\green_bar_script.cs" Line="34" Column="29" />
+      <File FileName="Assets\sheet_plane_script.cs" Line="21" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
